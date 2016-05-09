@@ -1,0 +1,47 @@
+<title> Donald Trump</title>
+<body>
+  <div id="content">
+    <h1>
+    Why you shouldn't vote for Donald Trump
+    </h1>
+
+    <img src="http://i.dailymail.co.uk/i/pix/2015/09/16/15/2C61D66800000578-3236927-image-a-4_1442413142657.jpg" alt="Donald Trump" style="width:304px;height:228px;"> 
+
+    <p>
+    The destruction of the United starts with this man becoming president.
+    </p>
+    <p>
+    Just him being alive is what causes some sort of destruction in this world, that should not happen.
+    </p>
+    <p>
+      Maybe we should do what he is trying to do and deport him out of the U.S. and actually make America great again.
+    </p>
+    <h2> How iris feels </h2>
+    <img src="http://cdn0.dailydot.com/cache/8e/35/8e35ad43761c46530d6f2cd5be631c0c.jpg" alt="Iris opinon" style="width:304px;height:228px;">
+    <p> An honest opinion from a girl in my classroom over the subject of Donald Trump is that he should just leave immediately, and stop trying to "Make America great again."
+    To add on to the subject she also said that if he doesn't like immigrants, why does he get a spray tan to make himself appear tan, when he just looks like his skin is completely orange.
+    </p>
+  </div>
+</body>
+
+
+
+
+
+
+
+
+CSS:title{
+  background-color: blue;
+}
+body{
+  background-color: red;
+}
+p{
+  backgorund-color: blue;
+}
+
+#content {
+  text-align: center;
+  color: white;
+}
